@@ -12,7 +12,7 @@ stand_alone: yes
 pi: [toc, sortrefs, symrefs]
 
 
-submissiontype: IETF  # also: "independent", "editorial", "IAB", or "IRTF"
+submissiontype: IETF
 number:
 
 venue:
