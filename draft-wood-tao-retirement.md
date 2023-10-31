@@ -1,19 +1,19 @@
 ---
 title: "Retiring the 'Tao of the IETF'"
 abbrev: "Retiring the 'Tao of the IETF'"
+docname: draft-wood-tao-retirement
+date:
 category: info
 
-docname: draft-wood-tao-retirement
-submissiontype: IETF  # also: "independent", "editorial", "IAB", or "IRTF"
-number:
-date:
-consensus: true
-v: 3
-area: GEN
-workgroup: WG Working Group
+ipr: trust200902
 keyword: Internet-Draft
 
+stand_alone: yes
 pi: [toc, sortrefs, symrefs]
+
+
+submissiontype: IETF  # also: "independent", "editorial", "IAB", or "IRTF"
+number:
 
 venue:
   group: GEN
