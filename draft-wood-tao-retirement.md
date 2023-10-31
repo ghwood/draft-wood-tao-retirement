@@ -11,9 +11,10 @@ consensus: true
 v: 3
 area: GEN
 workgroup: WG Working Group
-keyword:
- - Tao
- - 
+keyword: Internet-Draft
+
+pi: [toc, sortrefs, symrefs]
+
 venue:
   group: GEN
   type: Working Group
