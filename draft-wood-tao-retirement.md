@@ -18,23 +18,24 @@ pi: [toc, sortrefs, symrefs]
 venue:
   group: GEN
   type: Working Group
-  mail: WG@example.com
+  mail: eodir@ietf.rog
   arch: https://example.com/WG
-  github: USER/REPO
+  github: ghwood/draft-tao-retirement
   latest: https://example.com/LATEST
 
 author:
  -
+    ins: G. Wood
     fullname: Greg Wood
     organization: IETF Administration LLC
     email: ghwood@staff.ietf.org
 
 normative:
+  RFC2119:
 
 informative:
-
-[RFC1391]
-[RFC6722]
+  RFC1391:
+  RFC6722:
 
 --- abstract
 
