@@ -19,9 +19,9 @@ venue:
   group: GEN
   type: Working Group
   mail: eodir@ietf.rog
-  arch: https://example.com/WG
+  arch: https://datatracker 
   github: ghwood/draft-tao-retirement
-  latest: https://example.com/LATEST
+  latest: https://github.com/ghwood/draft-wood-tao-retirement
 
 author:
  -
