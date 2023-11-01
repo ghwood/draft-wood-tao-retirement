@@ -26,7 +26,7 @@ About This Document
    be found at https://datatracker.ietf.org/doc/draft-wood-tao-
    retirement/.
 
-   Discussion of this document takes place on the EODIR Working Group
+   Discussion of this document takes place on the WG Working Group
    mailing list (mailto:eodir@example.com), which is archived at
    https://example.com/WG.
 
