@@ -38,7 +38,7 @@ informative:
 
 --- abstract
 
-This document retires the Tao of the IETF as an IETF-maintained document. It includes the reasons for the retirement and the last edition of the Tao as published via the process described in RFC6722.
+This document retires the Tao of the IETF as an IETF-maintained document. It includes the reasons for the retirement and the last edition of the Tao as published via the process described in .
 
 
 --- middle
@@ -54,14 +54,14 @@ Since its publication as RFC1391 in 1993, The "Tao of the IETF" ("Tao") has desc
 # Acknowledging the History of the Tao
 
 # Reasons for Retirement
-While the Tao has 
+While the Tao has.
 
-Since methond
+Since method.
 
 # Replacing the Tao
 
 # Last Edition of the Tao
-For archival purposes 
+For archival purposes.
 
 # Security Considerations
 
