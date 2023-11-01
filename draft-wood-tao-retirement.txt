@@ -31,7 +31,7 @@ About This Document
    https://example.com/WG.
 
    Source for this draft and an issue tracker can be found at
-   https://github.com/USER/REPO.
+   https://github.com/ghwood/draft-wood-tao-retirement.
 
 Status of This Memo
 
