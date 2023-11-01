@@ -12,6 +12,14 @@ stand_alone: yes
 pi: [toc, sortrefs, symrefs]
 
 
+venue:
+  group: IETF
+  type: Working Group
+  mail: eodir@ietf.rog
+  arch: https://datatracker 
+  github: ghwood/draft-tao-retirement
+  latest: https://github.com/ghwood/draft-wood-tao-retirement
+
 submissiontype: IETF
 number:
 
