@@ -88,7 +88,7 @@ Table of Contents
    the standards process to those new to the IETF.  It was not a formal
    IETF process document but instead an informational overview.  The Tao
    was published as an RFC for 13 years, after which it was published as
-   a webpage, per RFC4677.  With grateful acknowledgement to all the
+   a webpage, per [RFC4677].  With grateful acknowledgement to all the
    individuals who contributed to the Tao over the years, the changing
    nature of IETF participation and experience with the process
    described in [RFC6722] recommends a new approach to collecting,
