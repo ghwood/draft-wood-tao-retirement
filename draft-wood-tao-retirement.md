@@ -11,14 +11,13 @@ keyword: Internet-Draft
 stand_alone: yes
 pi: [toc, sortrefs, symrefs]
 
-
 venue:
-  group: IETF
+  group: EODIR
   type: Working Group
-  mail: eodir@ietf.rog
-  arch: https://datatracker 
-  github: ghwood/draft-tao-retirement
-  latest: https://github.com/ghwood/draft-wood-tao-retirement
+  mail: eodir@example.com
+  arch: https://example.com/WG
+  github: USER/REPO
+  latest: https://example.com/LATEST
 
 submissiontype: IETF
 number:
