@@ -1,0 +1,160 @@
+
+
+
+
+Network Working Group                                            G. Wood
+Internet-Draft                                   IETF Administration LLC
+Intended status: Informational                           1 November 2023
+Expires: 4 May 2024
+
+
+                     Retiring the 'Tao of the IETF'
+                    draft-wood-tao-retirement-latest
+
+Abstract
+
+   This document retires the Tao of the IETF as an IETF-maintained
+   document.  It includes the reasons for the retirement and the last
+   edition of the Tao as published via the process described in .
+
+About This Document
+
+   This note is to be removed before publishing as an RFC.
+
+   The latest revision of this draft can be found at
+   https://example.com/LATEST.  Status information for this document may
+   be found at https://datatracker.ietf.org/doc/draft-wood-tao-
+   retirement/.
+
+   Discussion of this document takes place on the EODIR Working Group
+   mailing list (mailto:eodir@example.com), which is archived at
+   https://example.com/WG.
+
+   Source for this draft and an issue tracker can be found at
+   https://github.com/USER/REPO.
+
+Status of This Memo
+
+   This Internet-Draft is submitted in full conformance with the
+   provisions of BCP 78 and BCP 79.
+
+   Internet-Drafts are working documents of the Internet Engineering
+   Task Force (IETF).  Note that other groups may also distribute
+   working documents as Internet-Drafts.  The list of current Internet-
+   Drafts is at https://datatracker.ietf.org/drafts/current/.
+
+   Internet-Drafts are draft documents valid for a maximum of six months
+   and may be updated, replaced, or obsoleted by other documents at any
+   time.  It is inappropriate to use Internet-Drafts as reference
+   material or to cite them other than as "work in progress."
+
+   This Internet-Draft will expire on 4 May 2024.
+
+Copyright Notice
+
+   Copyright (c) 2023 IETF Trust and the persons identified as the
+   document authors.  All rights reserved.
+
+   This document is subject to BCP 78 and the IETF Trust's Legal
+   Provisions Relating to IETF Documents (https://trustee.ietf.org/
+   license-info) in effect on the date of publication of this document.
+   Please review these documents carefully, as they describe your rights
+   and restrictions with respect to this document.  Code Components
+   extracted from this document must include Revised BSD License text as
+   described in Section 4.e of the Trust Legal Provisions and are
+   provided without warranty as described in the Revised BSD License.
+
+Table of Contents
+
+   1.  Introduction
+   2.  Conventions and Definitions
+   3.  Acknowledging the History of the Tao
+   4.  Reasons for Retirement
+   5.  Replacing the Tao
+   6.  Last Edition of the Tao
+   7.  Security Considerations
+   8.  IANA Considerations
+   9.  References
+     9.1.  Normative References
+     9.2.  Informative References
+   Acknowledgments
+   Author's Address
+
+1.  Introduction
+
+   Since its publication as RFC1391 in 1993, The "Tao of the IETF"
+   ("Tao") has described the inner workings of IETF meetings and Working
+   Groups, discusses organizations related to the IETF, and introducesd
+   the standards process to those new to the IETF.  It was not a formal
+   IETF process document but instead an informational overview.  The Tao
+   was published as an RFC for 13 years, after which it was published as
+   a webpage, per RFC4677.  With grateful acknowledgement to all the
+   individuals who contributed to the Tao over the years, the changing
+   nature of IETF participation and experience with the process
+   described in RFC6722 recommends a new approach to collecting,
+   updating, and communicating information new participants need to
+   successfully engage in the work of the IETF.
+
+2.  Conventions and Definitions
+
+   The key words "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT",
+   "SHOULD", "SHOULD NOT", "RECOMMENDED", "NOT RECOMMENDED", "MAY", and
+   "OPTIONAL" in this document are to be interpreted as described in
+   BCP 14 [RFC2119] [RFC8174] when, and only when, they appear in all
+   capitals, as shown here.
+
+3.  Acknowledging the History of the Tao
+
+4.  Reasons for Retirement
+
+   While the Tao has.
+
+   Since method.
+
+5.  Replacing the Tao
+
+6.  Last Edition of the Tao
+
+   For archival purposes.
+
+7.  Security Considerations
+
+   This document has no security considerations.
+
+8.  IANA Considerations
+
+   This document has no IANA actions.
+
+9.  References
+
+9.1.  Normative References
+
+   [RFC2119]  Bradner, S., "Key words for use in RFCs to Indicate
+              Requirement Levels", BCP 14, RFC 2119,
+              DOI 10.17487/RFC2119, March 1997,
+              <https://www.rfc-editor.org/rfc/rfc2119>.
+
+   [RFC8174]  Leiba, B., "Ambiguity of Uppercase vs Lowercase in RFC
+              2119 Key Words", BCP 14, RFC 8174, DOI 10.17487/RFC8174,
+              May 2017, <https://www.rfc-editor.org/rfc/rfc8174>.
+
+9.2.  Informative References
+
+   [RFC1391]  Malkin, G., "The Tao of the IETF: A Guide for New
+              Attendees of the Internet Engineering Task Force",
+              RFC 1391, DOI 10.17487/RFC1391, January 1993,
+              <https://www.rfc-editor.org/rfc/rfc1391>.
+
+   [RFC6722]  Hoffman, P., Ed., "Publishing the "Tao of the IETF" as a
+              Web Page", RFC 6722, DOI 10.17487/RFC6722, August 2012,
+              <https://www.rfc-editor.org/rfc/rfc6722>.
+
+Acknowledgments
+
+   TODO acknowledge.
+
+Author's Address
+
+   Greg Wood
+   IETF Administration LLC
+   Email: ghwood@staff.ietf.org
