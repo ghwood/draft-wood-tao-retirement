@@ -15,14 +15,6 @@ pi: [toc, sortrefs, symrefs]
 submissiontype: IETF
 number:
 
-venue:
-  group: GEN
-  type: Working Group
-  mail: eodir@ietf.rog
-  arch: https://datatracker 
-  github: ghwood/draft-tao-retirement
-  latest: https://github.com/ghwood/draft-wood-tao-retirement
-
 author:
  -
     ins: G. Wood
