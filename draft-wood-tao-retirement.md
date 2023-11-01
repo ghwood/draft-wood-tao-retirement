@@ -16,7 +16,7 @@ venue:
   type: Working Group
   mail: eodir@example.com
   arch: https://example.com/WG
-  github: USER/REPO
+  github: ghwood/draft-wood-tao-retirement
   latest: https://example.com/LATEST
 
 submissiontype: IETF
