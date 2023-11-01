@@ -1,7 +1,7 @@
 ---
 title: "Retiring the 'Tao of the IETF'"
 abbrev: "Retiring the 'Tao of the IETF'"
-docname: draft-wood-tao-retirement
+docname: draft-wood-tao-retirement-latest
 date:
 category: info
 
