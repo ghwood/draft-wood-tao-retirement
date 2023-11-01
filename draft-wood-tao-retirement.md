@@ -12,7 +12,7 @@ stand_alone: yes
 pi: [toc, sortrefs, symrefs]
 
 venue:
-  group: EODIR
+  group: WG
   type: Working Group
   mail: eodir@example.com
   arch: https://example.com/WG
