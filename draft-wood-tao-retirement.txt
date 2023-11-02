@@ -4,8 +4,8 @@
 
 Network Working Group                                            G. Wood
 Internet-Draft                                   IETF Administration LLC
-Intended status: Informational                           1 November 2023
-Expires: 4 May 2024
+Intended status: Informational                           2 November 2023
+Expires: 5 May 2024
 
 
                      Retiring the 'Tao of the IETF'
@@ -48,7 +48,7 @@ Status of This Memo
    time.  It is inappropriate to use Internet-Drafts as reference
    material or to cite them other than as "work in progress."
 
-   This Internet-Draft will expire on 4 May 2024.
+   This Internet-Draft will expire on 5 May 2024.
 
 Copyright Notice
 
@@ -67,7 +67,7 @@ Copyright Notice
 Table of Contents
 
    1.  Introduction
-   2.  Conventions and Definitions
+   2.  Issues
    3.  Acknowledging the History of the Tao
    4.  Reasons for Retirement
    5.  Replacing the Tao
@@ -84,18 +84,23 @@ Table of Contents
 
    Since its publication as [RFC1391] in 1993, The "Tao of the IETF"
    ("Tao") has described the inner workings of IETF meetings and Working
-   Groups, discusses organizations related to the IETF, and introducesd
-   the standards process to those new to the IETF.  It was not a formal
-   IETF process document but instead an informational overview.  The Tao
-   was published as an RFC for 13 years, after which it was published as
-   a webpage, per [RFC4677].  With grateful acknowledgement to all the
-   individuals who contributed to the Tao over the years, the changing
-   nature of IETF participation and experience with the process
-   described in [RFC6722] recommends a new approach to collecting,
-   updating, and communicating information new participants need to
-   successfully engage in the work of the IETF.
+   Groups, discussed organizations related to the IETF, and introducesd
+   the standards process to new IETF participants.  It was not a formal
+   IETF process document, but instead a community-developed and
+   maintained informational overview.  After the Tao was published as an
+   RFC for 13 years, it was published as a webpage for more than a
+   decade, following the process described in [RFC6722].  However, the
+   more frequent updates the were not realized.  With grateful
+   acknowledgement to all the individuals who contributed to the Tao
+   over the years, the changing nature of IETF participation, a better
+   understanding of how to most effectively convey information to new
+   participants, and experience with publishing the Tao as a webpage all
+   suggest an new approach to collecting, updating, and communicating
+   the information new participants need to successfully engage in the
+   work of the IETF.  This document formally retires the Tao as of the
+   IETF a single standalone document.
 
-2.  Conventions and Definitions
+2.  Issues
 
    The key words "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT",
    "SHOULD", "SHOULD NOT", "RECOMMENDED", "NOT RECOMMENDED", "MAY", and
