@@ -75,7 +75,7 @@ The original Tao aimed to welcome new participants to IETF meetings, as attendan
 
 # Conclusion
 
-In short, the Tao's covering a wide range of topics, the unpredictable and different schedule for updates to the topics, and the high overhead for revising and reviewing that 
+In short, the Tao's covering a wide range of topics, the unpredictable and different schedule for updates to the topics, and the high overhead for revising and reviewing the content, means that the document required a lot of effort to maintain and was commonly out of date.
 
 # Acknowledgements
 
