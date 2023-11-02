@@ -73,6 +73,7 @@ The original Tao aimed to welcome new participants to IETF meetings, as attendan
 <!-- one thing we've heard about the Tao from current IETF participants, is that they like a single place to point new participant to get started. "Go read the Tao" is an easy recommendation to make, even if the current format of the Tao didn't make it easy for readers to find exactly the bit if information they were looking for. Do we need an alternative to this? For example, "go to the "Getting Started" webpage as a single starting point? OR maybe a small set of tailored getting started guides? E.g. "Getting started with IETF Meetings", "Getting started with IETF Hackathons", "Getting started with IETF Documents", "Getting started wtih IETF Working Groups", "Getting strated wtih technologies in the IETF"? -->
 
 # Conclusion
+
 In short, the Tao's covering a wide range of topics, the unpredictable and different schedule for updates to the topics, and the high overhead for revising and reviewing that 
 
 # Acknowledgements
@@ -1938,9 +1939,6 @@ page of contacts for a variety of needs is available
 within a day. Even if a direct answer to a particular query is not available,
 pointers to resources or people who can provide more information about a
 topic are often provided.
-
-## The Tao of the IETF
-publichsed 
 
 # Security Considerations
 
