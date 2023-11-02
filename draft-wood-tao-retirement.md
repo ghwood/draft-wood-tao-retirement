@@ -34,12 +34,15 @@ normative:
 
 informative:
   RFC1391:
+  RFC1539:
+  RFC1718:
+  RFC3160:
+  RFC4677:
   RFC6722:
 
 --- abstract
 
 This document retires the Tao of the IETF as an IETF-maintained document. It includes the reasons for the retirement and the last edition of the Tao as published via the process described in .
-
 
 --- middle
 
@@ -48,14 +51,46 @@ This document retires the Tao of the IETF as an IETF-maintained document. It inc
 Since its publication as [RFC1391] in 1993, The "Tao of the IETF" ("Tao") has described the inner workings of IETF meetings and Working Groups, discussed organizations related to the IETF, and introducesd the standards process to new IETF participants. It was not a formal IETF process document, but instead a community-developed and maintained informational overview. After the Tao was published as an RFC for 13 years, it was published as a webpage for more than a decade, following the process described in [RFC6722]. However, the more frequent updates the were not realized. With grateful acknowledgement to all the individuals who contributed to the Tao over the years, the changing nature of IETF participation, a better understanding of how to most effectively convey information to new participants, and experience with publishing the Tao as a webpage all suggest an new approach to collecting, updating, and communicating the information new participants need to successfully engage in the work of the IETF. This document formally retires the Tao as of the IETF a single standalone document.
 
 # Reasons for Retirement
+In short, the Tao's covering a wide range of topics, the unpredictable and different schedule for updates to the topics, and the high overhead for revising and reviewing the content did match the needs or preferences of the intended audience.
+
+## Infrequent updates
+The Tao was originally published as [RFC1391] in January 1993. In the following 17 years, four additional veresions of the Tao were published as RFCs: [RFC1539] in October 1998, [RFC1718] in November 1994, [RFC3160] in August 2001, and [RFC4677] in September 2006. In August 2012, [RFC4677] was published to document the process for publishing the Tao as webpage so that it "can be updated more easily". However, in the subseqent 11 years, only four additional versions were published. The length of the Tao meant that review and approval of the entire document took considerable effort and time, leading to very infrequenet updates.
+
+## Unweildly format
+The large, consolidated document format of the Tao made for a heavy investment by readers, in addition to the difficulty editors facedd keeping pace with changes required to keep it current. For example, with the emergence of IETF Hackathons' popularity with new participants prompted an update, however that content was effectively buried in an already long document.
+
+## Changing participation modes
+The original Tao aimed to welcome new participants to IETF meetings, as attendance grew rapidly along with theh growth of the Internet in the 1990s. A other avenues for initial participaton in the IETF emerged over the ensuing decades, the main focus of the Tao remained on in-person meeting particpation. For example, remote participation in IETF meetings became a much more significant aspect in the past few years.
+
+## New communications opportunities
++ More focused guides, for example on IETF Hackathon participation, starting new work
++ Alternative formats, e.g. multiple shorter documents, on-deamnd video
++ New channels for communications, e.g. Blog posts, improved Datatracker
 
 {::boilerplate bcp14-tagged}
 
-# Acknowledging the History of the Tao
+# Going forward plan
+<!-- one thing we've heard about the Tao from current IETF participants, is that they like a single place to point new participant to get started. "Go read the Tao" is an easy recommendation to make, even if the current format of the Tao didn't make it easy for readers to find exactly the bit if information they were looking for. Do we need an alternative to this? For example, "go to the "Getting Started" webpage as a single starting point? OR maybe a small set of tailored getting started guides? E.g. "Getting started with IETF Meetings", "Getting started with IETF Hackathons", "Getting started with IETF Documents", "Getting started wtih IETF Working Groups", "Getting strated wtih technologies in the IETF"? -->
 
-# Replacing the Tao
+# Conclusion
+In short, the Tao's covering a wide range of topics, the unpredictable and different schedule for updates to the topics, and the high overhead for revising and reviewing that 
+
+# Acknowledgements
+
+The next phase of work to welcome new participants to the the IETF builds on and gratefully acknowledges, everyone who has contributed to the the Tao, and other efforts to help newcomers to the IETF become engaged and productive participants.
+
+We acknowledgements of all past Tao of the IETF editors:
+
+* Gary Scott Malkin
+* Sue Harris
+* Paul Hoffman
+* Kathleen Moriarty
+* Neils ten Oever
 
 # Last Edition of the Tao
+
+<!-- Should this appear as an appendix> -->
+
 For archival purposes, the last edition of the Tao as published under the process described in RFC6722 is included below. Note that links to the Tao and archives below may not work in the future.
 
 # About This Document
