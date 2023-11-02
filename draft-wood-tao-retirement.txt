@@ -67,10 +67,14 @@ Copyright Notice
 Table of Contents
 
    1.  Introduction
-   2.  Issues
-   3.  Acknowledging the History of the Tao
-   4.  Reasons for Retirement
-   5.  Replacing the Tao
+   2.  Reasons for Retirement
+     2.1.  Infrequent updates
+     2.2.  Unweildly format
+     2.3.  Changing participation modes
+     2.4.  New communications opportunities
+   3.  Going forward plan
+   4.  Conclusion
+   5.  Acknowledgements
    6.  Last Edition of the Tao
    7.  Security Considerations
    8.  IANA Considerations
@@ -100,7 +104,55 @@ Table of Contents
    work of the IETF.  This document formally retires the Tao as of the
    IETF a single standalone document.
 
-2.  Issues
+2.  Reasons for Retirement
+
+   In short, the Tao's covering a wide range of topics, the
+   unpredictable and different schedule for updates to the topics, and
+   the high overhead for revising and reviewing the content did match
+   the needs or preferences of the intended audience.
+
+2.1.  Infrequent updates
+
+   The Tao was originally published as [RFC1391] in January 1993.  In
+   the following 17 years, four additional veresions of the Tao were
+   published as RFCs: [RFC1539] in October 1998, [RFC1718] in November
+   1994, [RFC3160] in August 2001, and [RFC4677] in September 2006.  In
+   August 2012, [RFC4677] was published to document the process for
+   publishing the Tao as webpage so that it "can be updated more
+   easily".  However, in the subseqent 11 years, only four additional
+   versions were published.  The length of the Tao meant that review and
+   approval of the entire document took considerable effort and time,
+   leading to very infrequenet updates.
+
+2.2.  Unweildly format
+
+   The large, consolidated document format of the Tao made for a heavy
+   investment by readers, in addition to the difficulty editors facedd
+   keeping pace with changes required to keep it current.  For example,
+   with the emergence of IETF Hackathons' popularity with new
+   participants prompted an update, however that content was effectively
+   buried in an already long document.
+
+2.3.  Changing participation modes
+
+   The original Tao aimed to welcome new participants to IETF meetings,
+   as attendance grew rapidly along with theh growth of the Internet in
+   the 1990s.  A other avenues for initial participaton in the IETF
+   emerged over the ensuing decades, the main focus of the Tao remained
+   on in-person meeting particpation.  For example, remote participation
+   in IETF meetings became a much more significant aspect in the past
+   few years.
+
+2.4.  New communications opportunities
+
+   *  More focused guides, for example on IETF Hackathon participation,
+      starting new work
+
+   *  Alternative formats, e.g. multiple shorter documents, on-deamnd
+      video
+
+   *  New channels for communications, e.g.  Blog posts, improved
+      Datatracker
 
    The key words "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT",
    "SHOULD", "SHOULD NOT", "RECOMMENDED", "NOT RECOMMENDED", "MAY", and
@@ -108,19 +160,40 @@ Table of Contents
    BCP 14 [RFC2119] [RFC8174] when, and only when, they appear in all
    capitals, as shown here.
 
-3.  Acknowledging the History of the Tao
+3.  Going forward plan
 
-4.  Reasons for Retirement
+4.  Conclusion
 
-   While the Tao has.
+   In short, the Tao's covering a wide range of topics, the
+   unpredictable and different schedule for updates to the topics, and
+   the high overhead for revising and reviewing the content, means that
+   the document required a lot of effort to maintain and was commonly
+   out of date.
 
-   Since method.
+5.  Acknowledgements
 
-5.  Replacing the Tao
+   The next phase of work to welcome new participants to the the IETF
+   builds on and gratefully acknowledges, everyone who has contributed
+   to the the Tao, and other efforts to help newcomers to the IETF
+   become engaged and productive participants.
+
+   We acknowledgements of all past Tao of the IETF editors:
+
+   *  Gary Scott Malkin
+
+   *  Sue Harris
+
+   *  Paul Hoffman
+
+   *  Kathleen Moriarty
+
+   *  Neils ten Oever
 
 6.  Last Edition of the Tao
 
-   For archival purposes.
+   For archival purposes, the last edition of the Tao as published under
+   the process described in RFC6722 is included below.  Note that links
+   to the Tao and archives below may not work in the future.
 
 7.  Security Considerations
 
@@ -149,6 +222,26 @@ Table of Contents
               Attendees of the Internet Engineering Task Force",
               RFC 1391, DOI 10.17487/RFC1391, January 1993,
               <https://www.rfc-editor.org/rfc/rfc1391>.
+
+   [RFC1539]  Malkin, G., "The Tao of IETF - A Guide for New Attendees
+              of the Internet Engineering Task Force", RFC 1539,
+              DOI 10.17487/RFC1539, October 1993,
+              <https://www.rfc-editor.org/rfc/rfc1539>.
+
+   [RFC1718]  IETF and G. Malkin, "The Tao of IETF - A Guide for New
+              Attendees of the Internet Engineering Task Force",
+              RFC 1718, DOI 10.17487/RFC1718, November 1994,
+              <https://www.rfc-editor.org/rfc/rfc1718>.
+
+   [RFC3160]  Harris, S., "The Tao of IETF - A Novice's Guide to the
+              Internet Engineering Task Force", RFC 3160,
+              DOI 10.17487/RFC3160, August 2001,
+              <https://www.rfc-editor.org/rfc/rfc3160>.
+
+   [RFC4677]  Hoffman, P. and S. Harris, "The Tao of IETF - A Novice's
+              Guide to the Internet Engineering Task Force", RFC 4677,
+              DOI 10.17487/RFC4677, September 2006,
+              <https://www.rfc-editor.org/rfc/rfc4677>.
 
    [RFC6722]  Hoffman, P., Ed., "Publishing the "Tao of the IETF" as a
               Web Page", RFC 6722, DOI 10.17487/RFC6722, August 2012,
