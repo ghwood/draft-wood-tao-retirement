@@ -89,7 +89,7 @@ We acknowledgements of all past Tao of the IETF editors:
 
 # Last Edition of the Tao
 
-<!-- Should this appear as an appendix> -->
+<!-- Should this appear as an appendix -->
 
 For archival purposes, the last edition of the Tao as published under the process described in RFC6722 is included below. Note that links to the Tao and archives below may not work in the future.
 
