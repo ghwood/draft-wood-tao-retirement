@@ -45,9 +45,9 @@ This document retires the Tao of the IETF as an IETF-maintained document. It inc
 
 # Introduction
 
-Since its publication as [RFC1391] in 1993, The "Tao of the IETF" ("Tao") has described the inner workings of IETF meetings and Working Groups, discusses organizations related to the IETF, and introducesd the standards process to those new to the IETF. It was not a formal IETF process document but instead an informational overview. The Tao was published as an RFC for 13 years, after which it was published as a webpage, per [RFC4677]. With grateful acknowledgement to all the individuals who contributed to the Tao over the years, the changing nature of IETF participation and experience with the process described in [RFC6722] recommends a new approach to collecting, updating, and communicating information new participants need to successfully engage in the work of the IETF.
+Since its publication as [RFC1391] in 1993, The "Tao of the IETF" ("Tao") has described the inner workings of IETF meetings and Working Groups, discussed organizations related to the IETF, and introducesd the standards process to new IETF participants. It was not a formal IETF process document, but instead a community-developed and maintained informational overview. After the Tao was published as an RFC for 13 years, it was published as a webpage for more than a decade, following the process described in [RFC6722]. However, the more frequent updates the were not realized. With grateful acknowledgement to all the individuals who contributed to the Tao over the years, the changing nature of IETF participation, a better understanding of how to most effectively convey information to new participants, and experience with publishing the Tao as a webpage all suggest an new approach to collecting, updating, and communicating the information new participants need to successfully engage in the work of the IETF. This document formally retires the Tao as of the IETF a single standalone document.
 
-# Conventions and Definitions
+# Issues
 
 {::boilerplate bcp14-tagged}
 
