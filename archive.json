@@ -1,6 +1,6 @@
 {
   "magic": "E!vIA5L86J2I",
-  "timestamp": "2023-11-05T01:05:03.621388+00:00",
+  "timestamp": "2023-11-07T01:02:12.605273+00:00",
   "repo": "ghwood/draft-wood-tao-retirement",
   "labels": [
     {
@@ -50,5 +50,34 @@
     }
   ],
   "issues": [],
-  "pulls": []
+  "pulls": [
+    {
+      "number": 1,
+      "id": "PR_kwDOKno4qc5endER",
+      "title": "Grammar, wording, clarity",
+      "url": "https://github.com/ghwood/draft-wood-tao-retirement/pull/1",
+      "state": "MERGED",
+      "author": "nllz",
+      "authorAssociation": "CONTRIBUTOR",
+      "assignees": [],
+      "labels": [],
+      "body": "",
+      "createdAt": "2023-11-05T12:13:22Z",
+      "updatedAt": "2023-11-05T14:09:37Z",
+      "baseRepository": "ghwood/draft-wood-tao-retirement",
+      "baseRefName": "main",
+      "baseRefOid": "af459d010fd724dce658e535df91251b00ef6b4d",
+      "headRepository": "nllz/draft-wood-tao-retirement",
+      "headRefName": "patch-1",
+      "headRefOid": "3615ac0f29785047f114c5ec9f9592ad0e5d2ef8",
+      "closedAt": "2023-11-05T14:09:37Z",
+      "mergedAt": "2023-11-05T14:09:37Z",
+      "mergedBy": "ghwood",
+      "mergeCommit": {
+        "oid": "956fc4f776c229dd1dcee3bd56dbafe82f0dfefc"
+      },
+      "comments": [],
+      "reviews": []
+    }
+  ]
 }
