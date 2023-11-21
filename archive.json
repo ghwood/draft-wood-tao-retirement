@@ -1,6 +1,6 @@
 {
   "magic": "E!vIA5L86J2I",
-  "timestamp": "2023-11-19T01:07:54.773276+00:00",
+  "timestamp": "2023-11-21T01:04:55.372088+00:00",
   "repo": "ghwood/draft-wood-tao-retirement",
   "labels": [
     {
@@ -75,6 +75,34 @@
       "mergedBy": "ghwood",
       "mergeCommit": {
         "oid": "956fc4f776c229dd1dcee3bd56dbafe82f0dfefc"
+      },
+      "comments": [],
+      "reviews": []
+    },
+    {
+      "number": 2,
+      "id": "PR_kwDOKno4qc5f9c4g",
+      "title": "more minor typo nits",
+      "url": "https://github.com/ghwood/draft-wood-tao-retirement/pull/2",
+      "state": "MERGED",
+      "author": "ghwood",
+      "authorAssociation": "OWNER",
+      "assignees": [],
+      "labels": [],
+      "body": "",
+      "createdAt": "2023-11-20T22:41:39Z",
+      "updatedAt": "2023-11-20T22:42:36Z",
+      "baseRepository": "ghwood/draft-wood-tao-retirement",
+      "baseRefName": "main",
+      "baseRefOid": "9a34960212e4c44fb054f08abc1aa270a68f5588",
+      "headRepository": "ghwood/draft-wood-tao-retirement",
+      "headRefName": "ghwood-patch-1",
+      "headRefOid": "72cc16076dabe36c3c9489a006e5ea01f756c4f1",
+      "closedAt": "2023-11-20T22:42:36Z",
+      "mergedAt": "2023-11-20T22:42:36Z",
+      "mergedBy": "ghwood",
+      "mergeCommit": {
+        "oid": "613f3ef006db7eed46fb3dc1d917ede708f4c7f8"
       },
       "comments": [],
       "reviews": []
