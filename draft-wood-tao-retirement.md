@@ -12,10 +12,10 @@ stand_alone: yes
 pi: [toc, sortrefs, symrefs]
 
 venue:
-  group: WG
+  group: Tao-Discuss
   type: Working Group
-  mail: eodir@example.com
-  arch: https://example.com/WG
+  mail: tao-discuss@ietf.org
+  arch: [https://mailarchive.ietf.org/arch/browse/tao-discuss/]
   github: ghwood/draft-wood-tao-retirement
   latest: https://example.com/LATEST
 
@@ -30,10 +30,10 @@ author:
     email: ghwood@staff.ietf.org
 
 -
-       ins: N. ten Oever
-       fullname: Niels ten Oever
-       organization: University of Amsterdam
-       email: mail@nielstenoever.net
+    ins: N. ten Oever
+    fullname: Niels ten Oever
+    organization: University of Amsterdam
+    email: mail@nielstenoever.net
 
 normative:
   RFC2119:
@@ -48,7 +48,7 @@ informative:
 
 --- abstract
 
-This document retires the Tao of the IETF as an IETF-maintained document. It includes the rationale for the retirement and the last edition of the Tao as published via the process described in [RFC6722].
+This document retires the Tao of the IETF as an IETF-maintained document. It includes the rationale for the retirement and the last edition of the Tao as published via the process described in [RFC6722]. The updated content of the Tao will continue to be updated on the website in a more accessible manner. 
 
 --- middle
 
@@ -71,11 +71,13 @@ The original Tao aimed to welcome new participants to IETF meetings, as attendan
 ## New communications opportunities
 + More focused guides, for example on IETF Hackathon participation, starting new work
 + Alternative formats, e.g. multiple shorter documents, on-demand video
-+ New channels for communications, e.g. Blog posts, improved Datatracker
++ New channels for communications, e.g. blog posts, improved Datatracker, podcasts, slack, etc. 
 
 {::boilerplate bcp14-tagged}
 
 # Going forward plan
+
+The content of the Tao has already been integrated into the website of the IETF, which is the main channel of communication for IETF newcomers and a general audience. The content is continuously kept up to date with a variety of media to serve different audiences. The IETF seeks to ensure that the website continues to address the needs of our ever-evolving community and potential newcomers. 
 
 <!-- one thing we've heard about the Tao from current IETF participants, is that they like a single place to point new participant to get started. "Go read the Tao" is an easy recommendation to make, even if the current format of the Tao didn't make it easy for readers to find exactly the bit if information they were looking for. Do we need an alternative to this? For example, "go to the "Getting Started" webpage as a single starting point? OR maybe a small set of tailored getting started guides? E.g. "Getting started with IETF Meetings", "Getting started with IETF Hackathons", "Getting started with IETF Documents", "Getting started wtih IETF Working Groups", "Getting strated wtih technologies in the IETF"? -->
 
@@ -93,13 +95,16 @@ We acknowledgements of all past Tao of the IETF editors:
 * Sue Harris
 * Paul Hoffman
 * Kathleen Moriarty
-* Neils ten Oever
+* Niels ten Oever
+
+We also acknowledge all the work of the translators that made the Tao accessible to many different audiences. 
 
 # Last Edition of the Tao
 
 For archival purposes, the last edition of the Tao as published under the process described in RFC6722 is included below. Note that links to the Tao and archives below may not work in the future.
 
-<!-- Insert last edition here. Should this appear as an appendix -->
+<!-- Insert last edition here from: https://github.com/ietf/tao/blob/main/Tao.md . Should this appear as an appendix -->
+
 
 # Security Considerations
 
@@ -112,8 +117,3 @@ This document has no IANA actions.
 
 
 --- back
-
-# Acknowledgments
-{:numbered="false"}
-
-TODO acknowledge.
