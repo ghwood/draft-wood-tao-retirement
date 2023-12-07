@@ -23,11 +23,6 @@ submissiontype: IETF
 number:
 
 author:
- -
-    ins: G. Wood
-    fullname: Greg Wood
-    organization: IETF Administration LLC
-    email: ghwood@staff.ietf.org
 
 -
     ins: N. ten Oever
@@ -62,7 +57,7 @@ In short, the breadth of topics covered in the Tao, the unpredictable and differ
 ## Infrequent updates
 The Tao was originally published as [RFC1391] in January 1993. In the following 17 years, four additional versions of the Tao were published as RFCs: [RFC1539] in October 1998, [RFC1718] in November 1994, [RFC3160] in August 2001, and [RFC4677] in September 2006. In August 2012, [RFC4677] was published to document the process for publishing the Tao as webpage so that it "can be updated more easily". However, in the subseqent 11 years, only four additional versions were published. The length of the Tao meant that review and approval of the entire document took considerable effort and time, leading to very infrequent updates.
 
-## Unweildly format
+## Unwieldy format
 The large, consolidated document format of the Tao made for a heavy investment by readers, in addition to the difficulty editors faced keeping pace with the changes required to keep it current. For example, the emergence of IETF Hackathons' popularity with new participants prompted an update, however, that content was effectively buried in an already long document.
 
 ## Changing participation modes
@@ -77,9 +72,9 @@ The original Tao aimed to welcome new participants to IETF meetings, as attendan
 
 # Going forward plan
 
-The content of the Tao has already been integrated into the website of the IETF, which is the main channel of communication for IETF newcomers and a general audience. The content is continuously kept up to date with a variety of media to serve different audiences. The IETF seeks to ensure that the website continues to address the needs of our ever-evolving community and potential newcomers. 
+The content of the Tao has already been integrated into the website of the IETF, which is the main channel of communication for IETF newcomers and a general audience. The website content is continuously kept up to date with a variety of media to serve different audiences. The IETF seeks to ensure that the website continues to address the needs of our ever-evolving community and potential newcomers. 
 
-<!-- one thing we've heard about the Tao from current IETF participants, is that they like a single place to point new participant to get started. "Go read the Tao" is an easy recommendation to make, even if the current format of the Tao didn't make it easy for readers to find exactly the bit if information they were looking for. Do we need an alternative to this? For example, "go to the "Getting Started" webpage as a single starting point? OR maybe a small set of tailored getting started guides? E.g. "Getting started with IETF Meetings", "Getting started with IETF Hackathons", "Getting started with IETF Documents", "Getting started wtih IETF Working Groups", "Getting strated wtih technologies in the IETF"? -->
+Aside from content, one feature of the Tao that has been called out as helpful when communicating with new or potential IETF participants, is having a single webpage to point new participant for a wide range of introductory information about the IETF. "Read the Tao" has been an easy recommendation to make, even if the current format of the Tao hasn't make it easy for readers to find exactly the bit if information they were looking for, and that information wasn't always kept up to date. In light of this, there should always be on the public-facing IETF website a stable, easy-to-remember webpage to which new or potential participants can be pointed.
 
 # Conclusion
 
