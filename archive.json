@@ -1,6 +1,6 @@
 {
   "magic": "E!vIA5L86J2I",
-  "timestamp": "2023-12-05T01:04:31.090988+00:00",
+  "timestamp": "2023-12-07T01:03:56.845679+00:00",
   "repo": "ghwood/draft-wood-tao-retirement",
   "labels": [
     {
@@ -112,24 +112,54 @@
       "id": "PR_kwDOKno4qc5gCOGa",
       "title": "Spelling, conclusions, going forward, and abstract",
       "url": "https://github.com/ghwood/draft-wood-tao-retirement/pull/3",
-      "state": "OPEN",
+      "state": "MERGED",
       "author": "nllz",
       "authorAssociation": "CONTRIBUTOR",
       "assignees": [],
       "labels": [],
       "body": "",
       "createdAt": "2023-11-21T15:25:55Z",
-      "updatedAt": "2023-11-21T15:25:55Z",
+      "updatedAt": "2023-12-06T22:15:22Z",
       "baseRepository": "ghwood/draft-wood-tao-retirement",
       "baseRefName": "main",
       "baseRefOid": "613f3ef006db7eed46fb3dc1d917ede708f4c7f8",
       "headRepository": "nllz/draft-wood-tao-retirement",
       "headRefName": "patch-2",
       "headRefOid": "1ab4795aaa18029ce535e2410484ea7ae6e7a8ab",
-      "closedAt": null,
-      "mergedAt": null,
-      "mergedBy": null,
-      "mergeCommit": null,
+      "closedAt": "2023-12-06T22:15:22Z",
+      "mergedAt": "2023-12-06T22:15:22Z",
+      "mergedBy": "ghwood",
+      "mergeCommit": {
+        "oid": "b7944d0cbd1c1f6b4fb93fc2a226dfdcc015bc51"
+      },
+      "comments": [],
+      "reviews": []
+    },
+    {
+      "number": 4,
+      "id": "PR_kwDOKno4qc5hXJzE",
+      "title": "Update draft-wood-tao-retirement.md",
+      "url": "https://github.com/ghwood/draft-wood-tao-retirement/pull/4",
+      "state": "MERGED",
+      "author": "ghwood",
+      "authorAssociation": "OWNER",
+      "assignees": [],
+      "labels": [],
+      "body": "updating author, typos, more detail about the going forward plan to cover the point about having an easy-to-reference pointer for new and potential participants ",
+      "createdAt": "2023-12-07T00:19:20Z",
+      "updatedAt": "2023-12-07T00:19:52Z",
+      "baseRepository": "ghwood/draft-wood-tao-retirement",
+      "baseRefName": "ghwood-handoff-fixes",
+      "baseRefOid": "b7944d0cbd1c1f6b4fb93fc2a226dfdcc015bc51",
+      "headRepository": "ghwood/draft-wood-tao-retirement",
+      "headRefName": "ghwood-author-update-typos-forward-plan-detail",
+      "headRefOid": "aed8a7861fb460e407bfe151c8f7f28dd5094085",
+      "closedAt": "2023-12-07T00:19:42Z",
+      "mergedAt": "2023-12-07T00:19:42Z",
+      "mergedBy": "ghwood",
+      "mergeCommit": {
+        "oid": "ec7bdf64d9e9ec21ecbe068b2d7d4c3dfa53efe0"
+      },
       "comments": [],
       "reviews": []
     }
